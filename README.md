@@ -1,4 +1,4 @@
-- 🌄Hello, I’m @sirius29-bot
+- 🌄Hello, I’m Hosirius
 - 🌌 I’m interested in everything 
 - 🌱 I’m currently learning the education 
 - 📫 I desire to hear some quotes.. 
