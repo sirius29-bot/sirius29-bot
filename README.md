@@ -1,7 +1,7 @@
-- 🌄Hello, I’m Hosirius
-- 🌌 I’m interested in everything 
-- 🌱 I’m currently learning the education 
-- 📫 I desire to hear some quotes.. 
+       Hello🌄, I’m Hosirius
+     🌌 I’m interested in everything 
+   I’m currently learning the education
+  and  I desire to hear some quotes.. 
 
 <!---
 sirius29-bot/sirius29-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
